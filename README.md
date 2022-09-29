@@ -25,4 +25,5 @@ sparta miniproject part2
 선택) 본인의 글에 달린 댓글들은 남의 거라도 삭제 할 수 있게 해주세요!
 
 <와이어프레임>
+
 ![로그인](https://user-images.githubusercontent.com/42130343/192979334-463670dc-02a5-4481-84fc-81e70147d24a.png)
