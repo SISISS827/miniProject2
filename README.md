@@ -27,3 +27,7 @@ sparta miniproject part2
 <와이어프레임>
 
 ![로그인](https://user-images.githubusercontent.com/42130343/192979334-463670dc-02a5-4481-84fc-81e70147d24a.png)
+![회원가입](https://user-images.githubusercontent.com/42130343/192979363-e1a29e77-d7ef-49ef-9ec8-0d1e742fac39.png)
+![메인페이지](https://user-images.githubusercontent.com/42130343/192979374-46513e54-c6f5-4e84-8c27-0a9950b6183b.png)
+![게시글](https://user-images.githubusercontent.com/42130343/192979394-08655d40-6c9b-40a8-9a81-3e5bc12d44ae.png)
+![글 작성](https://user-images.githubusercontent.com/42130343/192979405-fedc6757-4f75-4ac4-a5ef-
