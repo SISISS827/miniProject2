@@ -35,3 +35,4 @@ sparta miniproject part2
 <DB 설계>
 
 <img width="975" alt="db" src="https://user-images.githubusercontent.com/42130343/192980122-437524dd-3e6a-4dc6-a4dd-d4351e0925f8.PNG">
+![image](https://user-images.githubusercontent.com/42130343/192981141-2e5b2f89-df73-4cb2-8b5d-8c033f203662.png)
