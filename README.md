@@ -33,3 +33,5 @@ sparta miniproject part2
 ![글 작성](https://user-images.githubusercontent.com/42130343/192979405-fedc6757-4f75-4ac4-a5ef-
 
 <DB 설계>
+
+<img width="975" alt="db" src="https://user-images.githubusercontent.com/42130343/192980122-437524dd-3e6a-4dc6-a4dd-d4351e0925f8.PNG">
