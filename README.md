@@ -31,7 +31,6 @@ sparta miniproject part2
 ![메인페이지](https://user-images.githubusercontent.com/42130343/192979374-46513e54-c6f5-4e84-8c27-0a9950b6183b.png)
 ![게시글](https://user-images.githubusercontent.com/42130343/192979394-08655d40-6c9b-40a8-9a81-3e5bc12d44ae.png)
 ![글 작성](https://user-images.githubusercontent.com/42130343/192980348-2e79cc25-578a-4902-a3b3-74de25abc82b.png)
-ages.githubusercontent.com/42130343/192980122-437524dd-3e6a-4dc6-a4dd-d4351e0925f8.PNG">
 
 <DB 설계>
 
