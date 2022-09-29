@@ -38,6 +38,7 @@ sparta miniproject part2
 ![image](https://user-images.githubusercontent.com/42130343/192981141-2e5b2f89-df73-4cb2-8b5d-8c033f203662.png)
 
 <역할 분담>
+
 이승연 : 게시글 리스트 프론트엔드/
 정태희 : 로그인, 회원가입 프론트엔드/
 송창주 : 게시글 작성 프론트엔드/
