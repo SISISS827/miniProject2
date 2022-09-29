@@ -6,6 +6,7 @@ sparta miniproject part2
 프로젝트 목표 : SNS 기능 만들기
 
 <기능>
+
 회원가입, 로그인, 로그아웃 기능 - 입력 데이터는 인스타 참고
 
 1. 게시글 목록 페이지
@@ -36,6 +37,7 @@ sparta miniproject part2
 
 <img width="975" alt="db" src="https://user-images.githubusercontent.com/42130343/192980122-437524dd-3e6a-4dc6-a4dd-d4351e0925f8.PNG">
 ![image](https://user-images.githubusercontent.com/42130343/192981141-2e5b2f89-df73-4cb2-8b5d-8c033f203662.png)
+
 
 <역할 분담>
 
