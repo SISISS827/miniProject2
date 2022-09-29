@@ -1,5 +1,4 @@
 # miniProject2
-sparta miniproject part2
 주제 : 인스타그램 클론 코딩
 팀원 : 팀장 - 이승연 팀원 - 정태희, 정유준, 송창주
 프로젝트명 : 야자숲
