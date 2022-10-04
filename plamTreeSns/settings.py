@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 from pathlib import Path
+from re import A
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -107,9 +108,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ko-kr'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
 
@@ -125,3 +126,10 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+AUTH_USER_MODEL = 'user.UserModel'
+
+ACCOUNT_AUTHENTICATION_METHOD = 'email' # 로그인시 USERNAME 이 아니라 EMAIL을 사용하게 하는 설정
+ACCOUNT_EMAIL_REQUIRED = True # 회원가입시 필수 이메일을 필수항목으로 만들기
+ACCOUNT_LOGIN_ATTEMPTS_LIMIT: 5
+ACCOUNT_LOGIN_ATTEMPTS_TIMEOUT: 15
